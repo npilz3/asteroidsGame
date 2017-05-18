@@ -1,0 +1,5 @@
+﻿  Laser.cpp
+c:\users\sheng zhang\desktop\new game thing\homework5test\laser.cpp(11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\sheng zhang\desktop\new game thing\homework5test\laser.cpp(84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Homework5.vcxproj -> C:\Users\Sheng Zhang\Desktop\new game thing\Homework5Test\Debug\Homework5.exe
+  Homework5.vcxproj -> C:\Users\Sheng Zhang\Desktop\new game thing\Homework5Test\Debug\Homework5.pdb (Partial PDB)

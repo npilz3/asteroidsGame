@@ -1,0 +1,3 @@
+/home/nick/Desktop/Homework5Test/build/CMakeFiles/rebuild_cache.dir
+/home/nick/Desktop/Homework5Test/build/CMakeFiles/edit_cache.dir
+/home/nick/Desktop/Homework5Test/build/CMakeFiles/h5.dir
